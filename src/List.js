@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { address } from 'ip';
+// import { address } from 'ip';
 import Card from './Card';
 
 export class List extends Component {

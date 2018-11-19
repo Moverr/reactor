@@ -4,8 +4,8 @@ import './index.css';
 // import App from './App'; 
 import * as serviceWorker from './serviceWorker';
 // import Hello from './Hello';
-import GroceryList from './GroceryList';
-import App from './App';
+// import GroceryList from './GroceryList';
+// import App from './App';
 import KanbanBoard from './KanbanBoard';
 
 let cardsList = [{
